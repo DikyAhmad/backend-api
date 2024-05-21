@@ -1,5 +1,4 @@
 runtime: nodejs20
-service: backend
 
 runtime_config:
     operating_system: "ubuntu22"
